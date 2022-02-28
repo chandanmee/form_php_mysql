@@ -1,0 +1,27 @@
+:root{
+    --bg-define:#E6E6E6;
+}
+.logo
+{
+    height:45px;
+}
+
+body{
+    background-color:var(--bg-define);
+}
+
+.myform{
+    width:35%;
+    padding-top:3%;
+}
+form{
+    background-color:#fff;
+    padding:75px;
+    border-radius:15px;
+    box-shadow:-1px 0px 82px 5px rgba(0,0,0,0.56);
+}
+
+.form-btn{
+    background: linear-gradient(90deg, rgba(129,38,105,1) 0%, rgba(203,56,56,1) 100%);
+
+}
